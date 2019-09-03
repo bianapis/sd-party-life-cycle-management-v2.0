@@ -1,0 +1,19 @@
+{
+  "documentationRequestActionTaskRecord" : {},
+  "documentationRequestRecordReference" : "DRRR750499",
+  "customerPrecedentProfileUpdateLog" : "customerPrecedentProfileUpdateLog",
+  "cRPartyRelationshipProcedureInstanceRecord" : {
+    "partyLifecycleMaintenanceTask" : {
+      "partyLifecycleMaintenanceTaskResult" : "partyLifecycleMaintenanceTaskResult",
+      "partyLifecycleMaintenanceWorkProducts" : "partyLifecycleMaintenanceWorkProducts"
+    },
+    "partyLifecycleMaintenanceSchedule" : "partyLifecycleMaintenanceSchedule"
+  },
+  "documentationRequestActionTaskReference" : "DRATR704108",
+  "requestResponseRecord" : {},
+  "documentationInstanceRecord" : {
+    "partyLifecycleRequiredDocumentation" : "partyLifecycleRequiredDocumentation",
+    "partyLifecycleDocumentSchedule" : "partyLifecycleDocumentSchedule",
+    "documentDirectoryEntryInstanceReference" : "789698"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "partyRelationshipProcedureUpdateActionTaskRecord" : {},
+  "customerPrecedentProfileUpdateLog" : "customerPrecedentProfileUpdateLog",
+  "updateResponseRecord" : {},
+  "cRPartyRelationshipProcedureInstanceRecord" : {
+    "partyRelationshipType" : "partyRelationshipType",
+    "partyLifecycleMaintenanceTask" : {
+      "partyLifecycleMaintenanceTaskType" : "partyLifecycleMaintenanceTaskType",
+      "partyLifecycleMaintenanceTaskResult" : "partyLifecycleMaintenanceTaskResult",
+      "partyLifecycleMaintenanceWorkProducts" : "partyLifecycleMaintenanceWorkProducts"
+    },
+    "partyLifecycleMaintenanceSchedule" : "partyLifecycleMaintenanceSchedule",
+    "customerReference" : "729257",
+    "partyReference" : "775211"
+  },
+  "partyRelationshipProcedureUpdateActionTaskReference" : "PRPUATR717434"
+}

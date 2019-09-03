@@ -1,0 +1,41 @@
+{
+  "qualificationInstanceAnalysis" : {
+    "qualificationInstanceAnalysisParameters" : "qualificationInstanceAnalysisParameters",
+    "qualificationInstanceAnalysisRecord" : {},
+    "qualificationInstanceAnalysisReportType" : "qualificationInstanceAnalysisReportType",
+    "qualificationInstanceAnalysisReport" : {}
+  },
+  "customerPrecedentProfileUpdateLog" : "customerPrecedentProfileUpdateLog",
+  "qualificationRetrieveActionTaskRecord" : {},
+  "qualificationInstanceReport" : {
+    "qualificationInstanceReportParameters" : "qualificationInstanceReportParameters",
+    "qualificationInstanceReportType" : "qualificationInstanceReportType",
+    "qualificationInstanceReportRecord" : {},
+    "qualificationInstanceReport" : {}
+  },
+  "qualificationRetrieveActionTaskReference" : "QRATR776848",
+  "cRPartyRelationshipProcedureInstanceRecord" : {
+    "partyRelationshipType" : "partyRelationshipType",
+    "partyLifecycleMaintenanceTask" : {
+      "partyLifecycleMaintenanceTaskType" : "partyLifecycleMaintenanceTaskType",
+      "partyLifecycleMaintenanceTaskResult" : "partyLifecycleMaintenanceTaskResult",
+      "partyLifecycleMaintenanceWorkProducts" : "partyLifecycleMaintenanceWorkProducts"
+    },
+    "partyLifecycleMaintenanceSchedule" : "partyLifecycleMaintenanceSchedule",
+    "customerReference" : "763325",
+    "partyReference" : "787162"
+  },
+  "qualificationRetrieveActionResponse" : "qualificationRetrieveActionResponse",
+  "qualificationInstanceRecord" : {
+    "qualificationTaskRecord" : {
+      "qualificationTaskWorkProducts" : "qualificationTaskWorkProducts",
+      "specialistAgencyRegulatorServiceRequestResult" : "specialistAgencyRegulatorServiceRequestResult",
+      "qualificationTaskResult" : "qualificationTaskResult",
+      "qualificationTaskDescription" : "qualificationTaskDescription",
+      "documentDirectoryEntryInstanceReference" : "733205"
+    },
+    "qualificationType" : "qualificationType",
+    "publicDirectoryReference" : "716227",
+    "specialistAgencyServiceReference" : "761134"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "executeRecordReference" : "ERR778299",
+  "customerPrecedentProfileUpdateLog" : "customerPrecedentProfileUpdateLog",
+  "partyRelationshipProcedureExecuteActionTaskRecord" : {},
+  "executeResponseRecord" : {},
+  "partyRelationshipProcedureExecuteActionTaskReference" : "PRPEATR765095",
+  "cRPartyRelationshipProcedureInstanceRecord" : {
+    "partyLifecycleMaintenanceTask" : {
+      "partyLifecycleMaintenanceTaskType" : "partyLifecycleMaintenanceTaskType",
+      "partyLifecycleMaintenanceTaskResult" : "partyLifecycleMaintenanceTaskResult",
+      "partyLifecycleMaintenanceWorkProducts" : "partyLifecycleMaintenanceWorkProducts"
+    },
+    "partyLifecycleMaintenanceSchedule" : "partyLifecycleMaintenanceSchedule"
+  }
+}

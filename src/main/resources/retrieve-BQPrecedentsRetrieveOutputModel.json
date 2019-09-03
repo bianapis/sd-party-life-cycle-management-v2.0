@@ -1,0 +1,35 @@
+{
+  "customerPrecedentProfileUpdateLog" : "customerPrecedentProfileUpdateLog",
+  "precedentsRetrieveActionTaskReference" : "PRPRATR735049",
+  "precedentsRetrieveActionResponse" : "precedentsRetrieveActionResponse",
+  "precedentsRetrieveActionTaskRecord" : {},
+  "precedentsInstanceRecord" : {
+    "customerPrecedentValue" : "customerPrecedentValue",
+    "customerPrecedentValueDate" : "09-22-2018",
+    "precedentType" : "precedentType",
+    "customerPrecedentReference" : "795442"
+  },
+  "precedentsInstanceReport" : {
+    "precedentsInstanceReportType" : "precedentsInstanceReportType",
+    "precedentsInstanceReport" : {},
+    "precedentsInstanceReportRecord" : {},
+    "precedentsInstanceReportParameters" : "precedentsInstanceReportParameters"
+  },
+  "precedentsInstanceAnalysis" : {
+    "precedentsInstanceAnalysisRecord" : {},
+    "precedentsInstanceAnalysisReport" : {},
+    "precedentsInstanceAnalysisReportType" : "precedentsInstanceAnalysisReportType",
+    "precedentsInstanceAnalysisParameters" : "precedentsInstanceAnalysisParameters"
+  },
+  "cRPartyRelationshipProcedureInstanceRecord" : {
+    "partyRelationshipType" : "partyRelationshipType",
+    "partyLifecycleMaintenanceTask" : {
+      "partyLifecycleMaintenanceTaskType" : "partyLifecycleMaintenanceTaskType",
+      "partyLifecycleMaintenanceTaskResult" : "partyLifecycleMaintenanceTaskResult",
+      "partyLifecycleMaintenanceWorkProducts" : "partyLifecycleMaintenanceWorkProducts"
+    },
+    "partyLifecycleMaintenanceSchedule" : "partyLifecycleMaintenanceSchedule",
+    "customerReference" : "733237",
+    "partyReference" : "758305"
+  }
+}

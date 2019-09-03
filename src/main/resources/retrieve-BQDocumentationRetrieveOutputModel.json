@@ -1,0 +1,34 @@
+{
+  "documentationInstanceAnalysis" : {
+    "documentationInstanceAnalysisReportType" : "documentationInstanceAnalysisReportType",
+    "documentationInstanceAnalysisReport" : {},
+    "documentationInstanceAnalysisParameters" : "documentationInstanceAnalysisParameters",
+    "documentationInstanceAnalysisRecord" : {}
+  },
+  "documentationRetrieveActionTaskRecord" : {},
+  "customerPrecedentProfileUpdateLog" : "customerPrecedentProfileUpdateLog",
+  "documentationInstanceReport" : {
+    "documentationInstanceReport" : {},
+    "documentationInstanceReportRecord" : {},
+    "documentationInstanceReportParameters" : "documentationInstanceReportParameters",
+    "documentationInstanceReportType" : "documentationInstanceReportType"
+  },
+  "documentationRetrieveActionResponse" : "documentationRetrieveActionResponse",
+  "documentationRetrieveActionTaskReference" : "DRATR753088",
+  "cRPartyRelationshipProcedureInstanceRecord" : {
+    "partyRelationshipType" : "partyRelationshipType",
+    "partyLifecycleMaintenanceTask" : {
+      "partyLifecycleMaintenanceTaskType" : "partyLifecycleMaintenanceTaskType",
+      "partyLifecycleMaintenanceTaskResult" : "partyLifecycleMaintenanceTaskResult",
+      "partyLifecycleMaintenanceWorkProducts" : "partyLifecycleMaintenanceWorkProducts"
+    },
+    "partyLifecycleMaintenanceSchedule" : "partyLifecycleMaintenanceSchedule",
+    "customerReference" : "712959",
+    "partyReference" : "760030"
+  },
+  "documentationInstanceRecord" : {
+    "partyLifecycleRequiredDocumentation" : "partyLifecycleRequiredDocumentation",
+    "partyLifecycleDocumentSchedule" : "partyLifecycleDocumentSchedule",
+    "documentDirectoryEntryInstanceReference" : "728772"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "precedentsInstanceRecord" : {
+    "customerPrecedentValue" : "customerPrecedentValue",
+    "customerPrecedentValueDate" : "09-22-2018",
+    "precedentType" : "precedentType",
+    "customerPrecedentReference" : "718055"
+  },
+  "updateResponseRecord" : {},
+  "precedentsUpdateActionTaskReference" : "PRPUATR703842",
+  "precedentsUpdateActionTaskRecord" : {}
+}

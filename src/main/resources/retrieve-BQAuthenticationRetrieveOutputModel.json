@@ -1,0 +1,41 @@
+{
+  "authenticationInstanceAnalysis" : {
+    "authenticationInstanceAnalysisReportType" : "authenticationInstanceAnalysisReportType",
+    "authenticationInstanceAnalysisReport" : {},
+    "authenticationInstanceAnalysisParameters" : "authenticationInstanceAnalysisParameters",
+    "authenticationInstanceAnalysisRecord" : {}
+  },
+  "customerPrecedentProfileUpdateLog" : "customerPrecedentProfileUpdateLog",
+  "authenticationRetrieveActionTaskReference" : "ARATR719910",
+  "authenticationInstanceRecord" : {
+    "authenticationTaskRecord" : {
+      "specialistAgencyServiceRequestResult" : "specialistAgencyServiceRequestResult",
+      "authenticationTaskDescription" : "authenticationTaskDescription",
+      "authenticationTaskWorkProducts" : "authenticationTaskWorkProducts",
+      "documentDirectoryEntryInstanceReference" : "706166",
+      "authenticationTaskResult" : "authenticationTaskResult"
+    },
+    "publicDirectoryReference" : "727312",
+    "specialistAgencyServiceReference" : "778658",
+    "authenticationType" : "authenticationType"
+  },
+  "authenticationRetrieveActionTaskRecord" : {},
+  "authenticationRetrieveActionResponse" : "authenticationRetrieveActionResponse",
+  "cRPartyRelationshipProcedureInstanceRecord" : {
+    "partyRelationshipType" : "partyRelationshipType",
+    "partyLifecycleMaintenanceTask" : {
+      "partyLifecycleMaintenanceTaskType" : "partyLifecycleMaintenanceTaskType",
+      "partyLifecycleMaintenanceTaskResult" : "partyLifecycleMaintenanceTaskResult",
+      "partyLifecycleMaintenanceWorkProducts" : "partyLifecycleMaintenanceWorkProducts"
+    },
+    "partyLifecycleMaintenanceSchedule" : "partyLifecycleMaintenanceSchedule",
+    "customerReference" : "776083",
+    "partyReference" : "714265"
+  },
+  "authenticationInstanceReport" : {
+    "authenticationInstanceReportParameters" : "authenticationInstanceReportParameters",
+    "authenticationInstanceReportType" : "authenticationInstanceReportType",
+    "authenticationInstanceReportRecord" : {},
+    "authenticationInstanceReport" : {}
+  }
+}

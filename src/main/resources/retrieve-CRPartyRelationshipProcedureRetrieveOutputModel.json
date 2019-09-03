@@ -1,0 +1,27 @@
+{
+  "partyRelationshipProcedureInstanceReportRecord" : {
+    "partyRelationshipProcedureInstanceReportData" : "partyRelationshipProcedureInstanceReportData",
+    "partyRelationshipProcedureInstanceReport" : {},
+    "partyRelationshipProcedureInstanceReportType" : "partyRelationshipProcedureInstanceReportType"
+  },
+  "partyRelationshipProcedureInstanceAnalysis" : {
+    "partyRelationshipProcedureInstanceAnalysisReport" : {},
+    "partyRelationshipProcedureInstanceAnalysisReportType" : "partyRelationshipProcedureInstanceAnalysisReportType",
+    "partyRelationshipProcedureInstanceAnalysisData" : "partyRelationshipProcedureInstanceAnalysisData"
+  },
+  "customerPrecedentProfileUpdateLog" : "customerPrecedentProfileUpdateLog",
+  "partyRelationshipProcedureRetrieveActionTaskRecord" : {},
+  "partyRelationshipProcedureRetrieveActionTaskReference" : "PRPRATR755800",
+  "cRPartyRelationshipProcedureInstanceRecord" : {
+    "partyRelationshipType" : "partyRelationshipType",
+    "partyLifecycleMaintenanceTask" : {
+      "partyLifecycleMaintenanceTaskType" : "partyLifecycleMaintenanceTaskType",
+      "partyLifecycleMaintenanceTaskResult" : "partyLifecycleMaintenanceTaskResult",
+      "partyLifecycleMaintenanceWorkProducts" : "partyLifecycleMaintenanceWorkProducts"
+    },
+    "partyLifecycleMaintenanceSchedule" : "partyLifecycleMaintenanceSchedule",
+    "customerReference" : "746985",
+    "partyReference" : "799075"
+  },
+  "partyRelationshipProcedureRetrieveActionResponse" : "partyRelationshipProcedureRetrieveActionResponse"
+}
