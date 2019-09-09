@@ -89,7 +89,7 @@ public class CRPartyRelationshipProcedureInitiateOutputModel   {
   public CRPartyRelationshipProcedureInitiateOutputModelCRPartyRelationshipProcedureInstanceRecord getCRPartyRelationshipProcedureInstanceRecord() {
     return cRPartyRelationshipProcedureInstanceRecord;
   }
-
+   @JsonProperty("cRPartyRelationshipProcedureInstanceRecord")
   public void setCRPartyRelationshipProcedureInstanceRecord(CRPartyRelationshipProcedureInitiateOutputModelCRPartyRelationshipProcedureInstanceRecord cRPartyRelationshipProcedureInstanceRecord) {
     this.cRPartyRelationshipProcedureInstanceRecord = cRPartyRelationshipProcedureInstanceRecord;
   }

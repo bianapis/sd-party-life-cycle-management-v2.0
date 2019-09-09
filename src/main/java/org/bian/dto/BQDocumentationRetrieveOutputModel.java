@@ -40,7 +40,7 @@ public class BQDocumentationRetrieveOutputModel   {
   public BQDocumentationRetrieveOutputModelCRPartyRelationshipProcedureInstanceRecord getCRPartyRelationshipProcedureInstanceRecord() {
     return cRPartyRelationshipProcedureInstanceRecord;
   }
-
+  @JsonProperty("cRPartyRelationshipProcedureInstanceRecord")
   public void setCRPartyRelationshipProcedureInstanceRecord(BQDocumentationRetrieveOutputModelCRPartyRelationshipProcedureInstanceRecord cRPartyRelationshipProcedureInstanceRecord) {
     this.cRPartyRelationshipProcedureInstanceRecord = cRPartyRelationshipProcedureInstanceRecord;
   }

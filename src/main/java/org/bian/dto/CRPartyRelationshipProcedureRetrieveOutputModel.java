@@ -37,7 +37,7 @@ public class CRPartyRelationshipProcedureRetrieveOutputModel   {
   public CRPartyRelationshipProcedureRetrieveOutputModelCRPartyRelationshipProcedureInstanceRecord getCRPartyRelationshipProcedureInstanceRecord() {
     return cRPartyRelationshipProcedureInstanceRecord;
   }
-
+  @JsonProperty("cRPartyRelationshipProcedureInstanceRecord")
   public void setCRPartyRelationshipProcedureInstanceRecord(CRPartyRelationshipProcedureRetrieveOutputModelCRPartyRelationshipProcedureInstanceRecord cRPartyRelationshipProcedureInstanceRecord) {
     this.cRPartyRelationshipProcedureInstanceRecord = cRPartyRelationshipProcedureInstanceRecord;
   }
